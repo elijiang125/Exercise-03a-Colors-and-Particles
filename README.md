@@ -1,6 +1,6 @@
 # Exercise-03a-Colors-and-Particles
 
-Exercise for MSCH-C220
+Exercise for Elizabeth Jiang
 
 A demonstration of this exercise is available at [https://youtu.be/t6AFCsJlIok](https://youtu.be/t6AFCsJlIok)
 
